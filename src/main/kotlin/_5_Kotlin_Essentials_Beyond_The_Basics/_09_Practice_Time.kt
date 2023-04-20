@@ -35,9 +35,12 @@ class Puppy() {
 fun main(args: Array<String>) {
   val myPuppy = Puppy()
   val book = Book3("Oliver Twist", "Charles Dickens", "1837", 540)
+
   println(book.pages)
   println(book.height())
+
   myPuppy.playWithBook(book)
+
   println(book.pages)
   println(book.height())
 }

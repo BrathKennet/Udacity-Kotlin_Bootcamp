@@ -40,9 +40,13 @@ private class Book2 (var title: String, var totalBorrow: Int = 0) {
 
 fun main(args: Array<String>){
   val myBook = Book2("Hamlet", 5)
+
   println(myBook.canBorrow())
+
   myBook.updateBorrow()
+
   println(myBook.canBorrow())
+
   myBook.printUrl()
 }
 

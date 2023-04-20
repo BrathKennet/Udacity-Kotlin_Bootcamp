@@ -13,6 +13,7 @@ package _5_Kotlin_Essentials_Beyond_The_Basics
 * the subtype (otherwise, having the subtypes is pointless).
 * We then have a class that uses all the subtypes, and performs different actions depending on
 * what the values of the subtype’s properties are.
+*
 * Let’s put this into practice using building materials and a building that needs certain
 * amounts of those materials.
 * Create a new package and file and call them Buildings.

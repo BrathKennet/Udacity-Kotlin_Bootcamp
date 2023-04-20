@@ -23,6 +23,7 @@ private fun pairs2() {
   println(equipment.first)
   println(equipment.first.first)
   println(equipment.first.first.first)
+
   val equip = ("fishnet" to "catching fish") to ("of big size" to "and strong")
   println(equip.first)
   println(equip.first.first)

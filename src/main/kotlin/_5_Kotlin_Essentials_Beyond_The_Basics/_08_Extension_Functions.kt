@@ -55,6 +55,7 @@ fun main(args: Array<String>) {
   println("Does it have spaces?".hasSpaces())
   val aquarium = AquariumPlant("Red",13)
   aquarium.print()
+
   println("========================")
   staticExample()
   println("========================")

@@ -39,6 +39,7 @@ private inline fun <reified T: WaterSupply3> WaterSupply3.isOfType() = this is T
 
 private fun genericExample() {
   val aquarium = Aquarium3(TapWater3())
+
   println(aquarium.hasWaterSupplyOfType<TapWater3>())
   println(aquarium.waterSupply.isOfType<LakeWater3>())
 }

@@ -41,7 +41,6 @@ private class TapWaterCleaner: Cleaner<TapWater2> {
   }
 }
 
-
 private fun genericExample() {
   val cleaner = TapWaterCleaner()
   val aquarium = Aquarium2(TapWater2())

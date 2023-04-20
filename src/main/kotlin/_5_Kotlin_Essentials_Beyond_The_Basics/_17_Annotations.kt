@@ -32,6 +32,7 @@ fun reflections() {
   }
 
   //find one annotation, or null
+  //val annotated = classObj.findAnnotation<ImAPlant>()
   val annotated = classObj.annotations.first()
 
   annotated.apply {

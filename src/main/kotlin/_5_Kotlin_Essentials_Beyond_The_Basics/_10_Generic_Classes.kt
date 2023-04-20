@@ -27,7 +27,6 @@ private class LakeWater : WaterSupply(true){
 private class Aquarium<T: WaterSupply>(val waterSupply: T) {
   fun addWater() {
     check(!waterSupply.needsProcessed) {"water supply needs processed"}
-
     println("adding water from $waterSupply")
   }
 }

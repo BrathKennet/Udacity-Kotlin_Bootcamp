@@ -29,6 +29,7 @@ private fun reverseList (list: List<Int>): List<Int> {
 
 private fun reverseListAgain (list: List<Int>): List<Int> {
   val result = mutableListOf<Int>()
+
   for (i in list.size - 1 downTo 0) {
     result.add(list[i])
   }

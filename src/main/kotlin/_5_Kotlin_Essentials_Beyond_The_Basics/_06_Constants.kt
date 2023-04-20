@@ -5,9 +5,7 @@ package _5_Kotlin_Essentials_Beyond_The_Basics
 * */
 
 private const val rocks = 3
-
 private val number = 5
-
 private const val num = 5
 
 private fun complexFunctionCall() {}

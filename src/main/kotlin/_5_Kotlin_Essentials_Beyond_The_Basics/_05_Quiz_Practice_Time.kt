@@ -16,6 +16,7 @@ package _5_Kotlin_Essentials_Beyond_The_Basics
 fun main(args: Array<String>){
   val allBooks = setOf("Macbeth", "Romeo and Juliet", "Hamlet", "A Midsummer Night's Dream")
   val library = mapOf("Shakespeare" to allBooks)
+
   println(library)
   println(library.any { it.value.contains("Hamlet") })
 }

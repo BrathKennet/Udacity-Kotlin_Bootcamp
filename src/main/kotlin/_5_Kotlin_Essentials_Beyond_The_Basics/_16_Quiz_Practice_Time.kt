@@ -30,6 +30,7 @@ private inline fun <reified T: BaseBuildingMaterial2> Building2<*>.isSmallBuildi
 
 fun main (args: Array<String>) {
   val building = Building2(actualMaterialsNeeded = Wood2())
+
   building.build()
   building.isSmallBuilding<Wood2>()
 }
