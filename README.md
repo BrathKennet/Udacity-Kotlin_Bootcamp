@@ -2,7 +2,18 @@
 
 Hola a todos, me complace compartir mi trabajo en línea relacionado con el curso 'Kotlin Bootcamp for Programmers' de Udacity.
 
+### Lecciones:
+
+[1. Introduction](https://github.com/BrathKennet/Udacity-Kotlin_Bootcamp/tree/master/src/main/kotlin/_1_Introduction) <br>
+[2. Kotlin Basic](https://github.com/BrathKennet/Udacity-Kotlin_Bootcamp/tree/master/src/main/kotlin/_2_Kotlin_Basics) <br>
+[3. Functions](https://github.com/BrathKennet/Udacity-Kotlin_Bootcamp/tree/master/src/main/kotlin/_3_Functions) <br>
+[4. Classes](https://github.com/BrathKennet/Udacity-Kotlin_Bootcamp/tree/master/src/main/kotlin/_4_Classes) <br>
+[5. Kotlin Essentials: Beyond the Basic](https://github.com/BrathKennet/Udacity-Kotlin_Bootcamp/tree/master/src/main/kotlin/_5_Kotlin_Essentials_Beyond_The_Basics) <br>
+[6. Functional Manipulation](https://github.com/BrathKennet/Udacity-Kotlin_Bootcamp/tree/master/src/main/kotlin/_6_Functional_Manipulation)
+
 <br>
+
+## Sobre el Curso
 
 ## [Udacity - Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 
